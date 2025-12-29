@@ -50,7 +50,8 @@ source venv\Scripts\activate.ps1   # Mac: venv/bin/activate
 pip install -r requirements.txt
 
 # Add OPENAI_API_KEY in the .env file
-OPENAI_API_KEY =""
+Create a .env file
+Add you own OPENAI_API_KEY =""
 
 # Run the application
 python app.py
